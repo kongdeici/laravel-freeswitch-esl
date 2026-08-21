@@ -5,7 +5,7 @@
 | Package version | PHP | Laravel |
 |---|---|---|
 | `0.5.x` | 8.3, 8.4 | 11, 12 |
-| `0.6.x` | 8.3, 8.4 | 11, 12 |
+| `0.6.x` | 8.3, 8.4 | 11, 12, 13 |
 
 Support for PHP 8.2 and below, and Laravel 10, is not planned.
 

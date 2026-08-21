@@ -149,7 +149,7 @@ Set up the repository as a serious long-term package, not a proof of concept.
 For the package itself:
 
 - PHP 8.3+
-- Laravel 11 and 12
+- Laravel 11, 12, and 13
 
 This floor is set by the currently supported `apntalk/esl-react` line used by
 this repository. The package should not claim PHP 8.2 compatibility while the
